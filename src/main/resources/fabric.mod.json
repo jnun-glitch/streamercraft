@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "streamercraft",
+  "version": "${version}",
+  "name": "StreamerCraft",
+  "description": "Client-side tools for Minecraft economy observations and stream overlays.",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "dev.streamercraft.StreamerCraft"
+    ],
+    "client": [
+      "dev.streamercraft.client.StreamerCraftClient"
+    ],
+    "modmenu": [
+      "dev.streamercraft.client.compat.StreamerCraftModMenu"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": ">=17.0.1"
+  }
+}
