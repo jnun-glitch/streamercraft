@@ -6,4 +6,5 @@
 - Dashboard über einen konfigurierbaren Keybind und optional Mod Menu erreichbar.
 - Kosmisches und dunkles Dashboard-Theme mit lokaler Speicherung.
 - `/pay test` startet einen höchstens 30-sekündigen, lokalen Mitschnitt sichtbarer Servermeldungen; die beiden gemeldeten Donut-Zahlungsmuster werden als unbestätigte Texttreffer markiert.
+- Mindestversion für Fabric Loader auf 0.18.6 korrigiert, passend zum Modrinth-Profil.
 - Keine Server-, Markt- oder Streamdaten werden vorgetäuscht.
