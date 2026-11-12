@@ -1,0 +1,15 @@
+{
+  "key.category.streamercraft.controls": "StreamerCraft",
+  "key.streamercraft.open_dashboard": "Open StreamerCraft dashboard",
+  "screen.streamercraft.title": "StreamerCraft",
+  "screen.streamercraft.subtitle": "Client-side foundation · no server data assumed",
+  "screen.streamercraft.profile.none": "Server profile: none selected",
+  "screen.streamercraft.data.none": "Market and stream data: none captured",
+  "screen.streamercraft.theme.current": "Theme: %s",
+  "screen.streamercraft.theme.cosmic": "Cosmic",
+  "screen.streamercraft.theme.midnight": "Midnight",
+  "screen.streamercraft.theme.toggle": "Switch theme",
+  "streamercraft.paytest.started": "StreamerCraft: recording visible server messages for up to 30 seconds after /pay test.",
+  "streamercraft.paytest.finished": "StreamerCraft: capture ended; saving a local diagnostic log in config/streamercraft/pay-tests/.",
+  "streamercraft.paytest.payment_detected": "StreamerCraft: payment message pattern detected from %s for %s. It is a text match, not server confirmation."
+}

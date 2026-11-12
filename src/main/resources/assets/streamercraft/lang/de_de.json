@@ -1,0 +1,15 @@
+{
+  "key.category.streamercraft.controls": "StreamerCraft",
+  "key.streamercraft.open_dashboard": "StreamerCraft-Dashboard öffnen",
+  "screen.streamercraft.title": "StreamerCraft",
+  "screen.streamercraft.subtitle": "Client-Grundlage · keine Serverdaten vorausgesetzt",
+  "screen.streamercraft.profile.none": "Serverprofil: keines ausgewählt",
+  "screen.streamercraft.data.none": "Markt- und Streamdaten: keine erfasst",
+  "screen.streamercraft.theme.current": "Design: %s",
+  "screen.streamercraft.theme.cosmic": "Kosmisch",
+  "screen.streamercraft.theme.midnight": "Mitternacht",
+  "screen.streamercraft.theme.toggle": "Design wechseln",
+  "streamercraft.paytest.started": "StreamerCraft: Sichtbare Servermeldungen werden nach /pay test bis zu 30 Sekunden lang aufgezeichnet.",
+  "streamercraft.paytest.finished": "StreamerCraft: Aufnahme beendet; die Diagnosedatei wird lokal unter config/streamercraft/pay-tests gespeichert.",
+  "streamercraft.paytest.payment_detected": "StreamerCraft: Zahlungsnachrichten-Muster von %s über %s erkannt. Das ist ein Texttreffer, keine Serverbestätigung."
+}
